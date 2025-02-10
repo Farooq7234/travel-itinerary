@@ -1,8 +1,24 @@
-# React + Vite
+# ✈️ Travel Itineraries
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
 
-Currently, two official plugins are available:
+This project is a travel itinerary listing page where travel creators can display their curated itineraries.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo Video
+
+[Watch the demo]()
+
+## 🌍 Live Deployment
+
+[Live Demo](https://travel-itinerary-mauve.vercel.app/)
+
+## 📌 Features
+
+1. View a list of travel itineraries with key details like destination, duration, price, and a
+   thumbnail image.
+2. Filter itineraries based on destination and price range.
+3. Click on an itinerary to view more details in a modal or a new page.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
