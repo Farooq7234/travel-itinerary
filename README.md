@@ -6,7 +6,7 @@ This project is a travel itinerary listing page where travel creators can displa
 
 ## 📸 Demo Video
 
-[Watch the demo]()
+[Watch the demo](https://www.loom.com/share/961ca9ac06eb493288f7bd0d6c9643c5?sid=dae0f8d5-879c-41aa-ab3c-997404fe4417)
 
 ## 🌍 Live Deployment
 
